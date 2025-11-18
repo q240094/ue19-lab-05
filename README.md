@@ -10,9 +10,16 @@ Cette application interroge l'API publique [JokeAPI](https://v2.jokeapi.dev/) po
 ```bash
 git clone https://github.com/q240094/ue19-lab-05.git
 cd ue19-lab-05
+```
 
 ## 🚀 Lancement
 
-### 1. Lancer le Docker
+### 1. Constuire le conteneur
 ```bash
 docker build -t ue19-lab-05 .
+```
+
+### 2. Exécuter le conteneur
+```bash
+docker run --rm ue19-lab-05
+```
