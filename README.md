@@ -8,5 +8,5 @@ Cette application interroge l'API publique [JokeAPI](https://v2.jokeapi.dev/) po
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/<ton_nom_utilisateur>/ue19-lab-05.git
+git clone https://github.com/q240094/ue19-lab-05.git
 cd ue19-lab-05
